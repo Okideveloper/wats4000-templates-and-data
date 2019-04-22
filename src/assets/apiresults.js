@@ -16,7 +16,7 @@ export default {
       "backdrop_path":"/8uO0gUM8aNqYLs1OsTBQiXu0fEv.jpg",
       "adult":false,
       "overview":"A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
-      "release_date":"1999-10-15",
+      "release_date": "1999-10-15",
       "genres":[
         "Drama"
       ]
